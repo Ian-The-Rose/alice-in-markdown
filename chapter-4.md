@@ -1,12 +1,12 @@
-CHAPTER IV.
-The Rabbit Sends in a Little Bill
+# CHAPTER IV.
+## The Rabbit Sends in a Little Bill
 
 
 It was the White Rabbit, trotting slowly back again, and looking
 anxiously about as it went, as if it had lost something; and she heard
 it muttering to itself “The Duchess! The Duchess! Oh my dear paws! Oh
 my fur and whiskers! She’ll get me executed, as sure as ferrets are
-ferrets! Where _can_ I have dropped them, I wonder?” Alice guessed in a
+ferrets! Where *can* I have dropped them, I wonder?” Alice guessed in a
 moment that it was looking for the fan and the pair of white kid
 gloves, and she very good-naturedly began hunting about for them, but
 they were nowhere to be seen—everything seemed to have changed since
@@ -14,7 +14,7 @@ her swim in the pool, and the great hall, with the glass table and the
 little door, had vanished completely.
 
 Very soon the Rabbit noticed Alice, as she went hunting about, and
-called out to her in an angry tone, “Why, Mary Ann, what _are_ you
+called out to her in an angry tone, “Why, Mary Ann, what *are* you
 doing out here? Run home this moment, and fetch me a pair of gloves and
 a fan! Quick, now!” And Alice was so much frightened that she ran off
 at once in the direction it pointed to, without trying to explain the
@@ -43,7 +43,7 @@ pairs of tiny white kid gloves: she took up the fan and a pair of the
 gloves, and was just going to leave the room, when her eye fell upon a
 little bottle that stood near the looking-glass. There was no label
 this time with the words “DRINK ME,” but nevertheless she uncorked it
-and put it to her lips. “I know _something_ interesting is sure to
+and put it to her lips. “I know *something* interesting is sure to
 happen,” she said to herself, “whenever I eat or drink anything; so
 I’ll just see what this bottle does. I do hope it’ll make me grow large
 again, for really I’m quite tired of being such a tiny little thing!”
@@ -61,7 +61,9 @@ was not even room for this, and she tried the effect of lying down with
 one elbow against the door, and the other arm curled round her head.
 Still she went on growing, and, as a last resource, she put one arm out
 of the window, and one foot up the chimney, and said to herself “Now I
-can do no more, whatever happens. What _will_ become of me?”
+can do no more, whatever happens. What *will* become of me?”
+
+<figure 11>
 
 Luckily for Alice, the little magic bottle had now had its full effect,
 and she grew no larger: still it was very uncomfortable, and, as there
@@ -72,18 +74,18 @@ again, no wonder she felt unhappy.
 always growing larger and smaller, and being ordered about by mice and
 rabbits. I almost wish I hadn’t gone down that rabbit-hole—and yet—and
 yet—it’s rather curious, you know, this sort of life! I do wonder what
-_can_ have happened to me! When I used to read fairy-tales, I fancied
+*can* have happened to me! When I used to read fairy-tales, I fancied
 that kind of thing never happened, and now here I am in the middle of
 one! There ought to be a book written about me, that there ought! And
 when I grow up, I’ll write one—but I’m grown up now,” she added in a
-sorrowful tone; “at least there’s no room to grow up any more _here_.”
+sorrowful tone; “at least there’s no room to grow up any more *here*.”
 
-“But then,” thought Alice, “shall I _never_ get any older than I am
+“But then,” thought Alice, “shall I *never* get any older than I am
 now? That’ll be a comfort, one way—never to be an old woman—but
-then—always to have lessons to learn! Oh, I shouldn’t like _that!_”
+then—always to have lessons to learn! Oh, I shouldn’t like *that!*”
 
 “Oh, you foolish Alice!” she answered herself. “How can you learn
-lessons in here? Why, there’s hardly room for _you_, and no room at all
+lessons in here? Why, there’s hardly room for *you*, and no room at all
 for any lesson-books!”
 
 And so she went on, taking first one side and then the other, and
@@ -101,7 +103,7 @@ the door opened inwards, and Alice’s elbow was pressed hard against it,
 that attempt proved a failure. Alice heard it say to itself “Then I’ll
 go round and get in at the window.”
 
-“_That_ you won’t!” thought Alice, and, after waiting till she fancied
+“*That* you won’t!” thought Alice, and, after waiting till she fancied
 she heard the Rabbit just under the window, she suddenly spread out her
 hand, and made a snatch in the air. She did not get hold of anything,
 but she heard a little shriek and a fall, and a crash of broken glass,
