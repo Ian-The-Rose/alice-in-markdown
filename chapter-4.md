@@ -268,7 +268,7 @@ smoking a long hookah, and taking not the smallest notice of her or of
 anything else.
 
 ### List of Illustrations
-- First Image
-- Second Image
-- Third Image
-- Fourth Image
+- Giant Alice
+- The Rabbit and the Hand
+- Lizard Time
+- That Big Old Dog
