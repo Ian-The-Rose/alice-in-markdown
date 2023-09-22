@@ -110,7 +110,7 @@ but she heard a little shriek and a fall, and a crash of broken glass,
 from which she concluded that it was just possible it had fallen into a
 cucumber-frame, or something of the sort.
 
-<figure 12>
+![A giant hand reaches down to grab The White Rabbit](/img/illustration-12.png "The final moments of The White Rabbit.")
 
 Next came an angry voice—the Rabbit’s—“Pat! Pat! Where are you?” And
 then a voice she had never heard before, “Sure then I’m here! Digging
@@ -163,7 +163,7 @@ scratching and scrambling about in the chimney close above her: then,
 saying to herself “This is Bill,” she gave one sharp kick, and waited
 to see what would happen next.
 
-<Figure 13>
+![A lizard is launched out of a chimney.](/img/illustration-13.png "A lizard is launched out of a chimney.")
 
 The first thing she heard was a general chorus of “There goes Bill!”
 then the Rabbit’s voice along—“Catch him, you by the hedge!” then
@@ -225,7 +225,7 @@ it; but she was terribly frightened all the time at the thought that it
 might be hungry, in which case it would be very likely to eat her up in
 spite of all her coaxing.
 
-<figure 14>
+![Alice plays fetch with a dog the size of a bear.](/img/illustration-14.png "Alice Plays fetch with a dog the size of a bear.")
 
 Hardly knowing what she did, she picked up a little bit of stick, and
 held it out to the puppy; whereupon the puppy jumped into the air off
