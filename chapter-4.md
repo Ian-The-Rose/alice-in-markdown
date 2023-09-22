@@ -63,7 +63,7 @@ Still she went on growing, and, as a last resource, she put one arm out
 of the window, and one foot up the chimney, and said to herself “Now I
 can do no more, whatever happens. What *will* become of me?”
 
-<figure 11>
+![A Giant Alice fills the entire room.](/img/illustration-11.png "Giant Alice")
 
 Luckily for Alice, the little magic bottle had now had its full effect,
 and she grew no larger: still it was very uncomfortable, and, as there
@@ -110,12 +110,14 @@ but she heard a little shriek and a fall, and a crash of broken glass,
 from which she concluded that it was just possible it had fallen into a
 cucumber-frame, or something of the sort.
 
+<figure 12>
+
 Next came an angry voice—the Rabbit’s—“Pat! Pat! Where are you?” And
 then a voice she had never heard before, “Sure then I’m here! Digging
 for apples, yer honour!”
 
 “Digging for apples, indeed!” said the Rabbit angrily. “Here! Come and
-help me out of _this!_” (Sounds of more broken glass.)
+help me out of *this!*” (Sounds of more broken glass.)
 
 “Now tell me, Pat, what’s that in the window?”
 
@@ -132,10 +134,10 @@ There was a long silence after this, and Alice could only hear whispers
 now and then; such as, “Sure, I don’t like it, yer honour, at all, at
 all!” “Do as I tell you, you coward!” and at last she spread out her
 hand again, and made another snatch in the air. This time there were
-_two_ little shrieks, and more sounds of broken glass. “What a number
+*two* little shrieks, and more sounds of broken glass. “What a number
 of cucumber-frames there must be!” thought Alice. “I wonder what
 they’ll do next! As for pulling me out of the window, I only wish they
-_could!_ I’m sure _I_ don’t want to stay in here any longer!”
+*could!* I’m sure *I* don’t want to stay in here any longer!”
 
 She waited for some time without hearing anything more: at last came a
 rumbling of little cartwheels, and the sound of a good many voices all
@@ -146,20 +148,22 @@ together first—they don’t reach half high enough yet—Oh! they’ll do
 well enough; don’t be particular—Here, Bill! catch hold of this
 rope—Will the roof bear?—Mind that loose slate—Oh, it’s coming down!
 Heads below!” (a loud crash)—“Now, who did that?—It was Bill, I
-fancy—Who’s to go down the chimney?—Nay, _I_ shan’t! _You_ do
-it!—_That_ I won’t, then!—Bill’s to go down—Here, Bill! the master says
+fancy—Who’s to go down the chimney?—Nay, *I* shan’t! *You* do
+it!—*That* I won’t, then!—Bill’s to go down—Here, Bill! the master says
 you’re to go down the chimney!”
 
 “Oh! So Bill’s got to come down the chimney, has he?” said Alice to
 herself. “Shy, they seem to put everything upon Bill! I wouldn’t be in
 Bill’s place for a good deal: this fireplace is narrow, to be sure; but
-I _think_ I can kick a little!”
+I *think* I can kick a little!”
 
 She drew her foot as far down the chimney as she could, and waited till
 she heard a little animal (she couldn’t guess of what sort it was)
 scratching and scrambling about in the chimney close above her: then,
 saying to herself “This is Bill,” she gave one sharp kick, and waited
 to see what would happen next.
+
+<Figure 13>
 
 The first thing she heard was a general chorus of “There goes Bill!”
 then the Rabbit’s voice along—“Catch him, you by the hedge!” then
@@ -178,11 +182,11 @@ like a Jack-in-the-box, and up I goes like a sky-rocket!”
 called out as loud as she could, “If you do, I’ll set Dinah at you!”
 
 There was a dead silence instantly, and Alice thought to herself, “I
-wonder what they _will_ do next! If they had any sense, they’d take the
+wonder what they *will* do next! If they had any sense, they’d take the
 roof off.” After a minute or two, they began moving about again, and
 Alice heard the Rabbit say, “A barrowful will do, to begin with.”
 
-“A barrowful of _what?_” thought Alice; but she had not long to doubt,
+“A barrowful of *what?*” thought Alice; but she had not long to doubt,
 for the next moment a shower of little pebbles came rattling in at the
 window, and some of them hit her in the face. “I’ll put a stop to
 this,” she said to herself, and shouted out, “You’d better not do that
@@ -191,7 +195,7 @@ again!” which produced another dead silence.
 Alice noticed with some surprise that the pebbles were all turning into
 little cakes as they lay on the floor, and a bright idea came into her
 head. “If I eat one of these cakes,” she thought, “it’s sure to make
-_some_ change in my size; and as it can’t possibly make me larger, it
+*some* change in my size; and as it can’t possibly make me larger, it
 must make me smaller, I suppose.”
 
 So she swallowed one of the cakes, and was delighted to find that she
@@ -221,6 +225,8 @@ it; but she was terribly frightened all the time at the thought that it
 might be hungry, in which case it would be very likely to eat her up in
 spite of all her coaxing.
 
+<figure 14>
+
 Hardly knowing what she did, she picked up a little bit of stick, and
 held it out to the puppy; whereupon the puppy jumped into the air off
 all its feet at once, with a yelp of delight, and rushed at the stick,
@@ -243,7 +249,7 @@ and till the puppy’s bark sounded quite faint in the distance.
 against a buttercup to rest herself, and fanned herself with one of the
 leaves: “I should have liked teaching it tricks very much, if—if I’d
 only been the right size to do it! Oh dear! I’d nearly forgotten that
-I’ve got to grow up again! Let me see—how _is_ it to be managed? I
+I’ve got to grow up again! Let me see—how *is* it to be managed? I
 suppose I ought to eat or drink something or other; but the great
 question is, what?”
 
@@ -260,3 +266,9 @@ mushroom, and her eyes immediately met those of a large blue
 caterpillar, that was sitting on the top with its arms folded, quietly
 smoking a long hookah, and taking not the smallest notice of her or of
 anything else.
+
+### List of Illustrations
+- First Image
+- Second Image
+- Third Image
+- Fourth Image
